@@ -21,7 +21,7 @@ A GS1 é uma organização global responsável por desenvolver e manter padrões
 # Código de Barras 2D / Digital Link:
 O código de barras 2D consegue armazenar uma quantidade maior de informações do que os códigos tradicionais. Quando o código é escaneado por um leitor ou por um smartphone, os dados são capturados e enviados por meio da internet para um servidor. No Back-End, o sistema processa a solicitação feita pelo usuário e consulta no banco de dados as informações do produto, como lote, validade e distribuidora. Após esse processo todas as informações retornam para a tela do usuário, e tudo isso dependendo da velocidade da rede, pode levar menos de 1 segundo. Todo esse processo combina rede de computadores, banco de dados e programação Front/Back-End.
 
-![Diagrama do Digital link](ChatGPT Image Jun 12, 2026, 06_17_51 PM.png)
+![Diagrama do Digital link](ChatGPT Image PM.png)
 
 ## Tecnologia 2:
 # Sistemas de Inteligência Artificial para Logística:
