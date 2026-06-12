@@ -27,6 +27,8 @@ O código de barras 2D consegue armazenar uma quantidade maior de informações 
 # Sistemas de Inteligência Artificial para Logística:
 Os sistemas de inteligência artifical usados para logísticas, utlizam grandes volumes de dados para otimizar processos como controle de estoque, roteiros de entregas e previsão de demanda. Os sensores, leitores e sistemas de gestão coletam informações de forma contínua e enviam elas para o servidores por meio da rede. No back-end, os algoritmos de inteligência artificial analisam os dados enviados, identificam padrões e geram previsões ou recomendações para auxiliar os usuários na tomada de decisão. Essa tecnologia demonstra a relação entre rede de computadores, back-end, inteligência artifical e banco de dados.
 
+![Diagrama sistemas de IA](sistema-ia.png)
+
 
 ## Critério 3 - Reflexão Crítica:
 Após a visita na GS1 Brasil
